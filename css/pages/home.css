@@ -1,7 +1,15 @@
-/* clock */
-/* form */
-/* button */
-/* progress-bar */
-/* fontawesome */
+/* base */
+@import '../base/base.css';
+@import '../base/layout.css';
 
-/* EXTRA */
+/* 3rd-party */
+@import '../3rd-party/font-awesome.min.css';
+
+/* components */
+@import '../components/button.css';
+@import '../components/clock.css';
+@import '../components/form.css';
+@import '../components/mouse.css';
+@import '../components/progress-bar.css';
+
+/* Custom style goes below this comment line */
