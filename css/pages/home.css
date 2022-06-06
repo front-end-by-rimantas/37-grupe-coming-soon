@@ -158,7 +158,7 @@ footer.container {
 .back-to-top {
     border-radius: 50%;
     position: fixed;
-    top: 30px;
+    bottom: 30px;
     right: 30px;
 }
 /* FOOTER - end */
